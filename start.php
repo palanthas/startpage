@@ -43,13 +43,13 @@ $out = '
 </div>
 
 <div class="icon_tray">
-  <a href="https://www.reddit.com"><img class="icon" src="/images/reddit.svg"></a>
-  <a href="https://www.facebook.com"><img class="icon" src="/images/facebook.svg"></a>
-  <a href="https://www.youtube.com"><img class="icon" src="/images/youtube.svg"></a>
-  <a href="https://www.amazon.com"><img class="icon" src="/images/amazon.svg"></a>
-  <a href="https://play.spotify.com"><img class="icon" src="/images/spotify.svg"></a>
-  <a href="https://www.github.com"><img class="icon" src="/images/github.svg"></a>
-  <a href="https://www.wunderground.com"><img class="icon" src="/images/wunderground.svg"></a>
+  <a href="https://www.reddit.com"><img class="icon" src="./images/reddit.svg"></a>
+  <a href="https://www.facebook.com"><img class="icon" src="./images/facebook.svg"></a>
+  <a href="https://www.youtube.com"><img class="icon" src="./images/youtube.svg"></a>
+  <a href="https://www.amazon.com"><img class="icon" src="./images/amazon.svg"></a>
+  <a href="https://play.spotify.com"><img class="icon" src="./images/spotify.svg"></a>
+  <a href="https://www.github.com"><img class="icon" src="./images/github.svg"></a>
+  <a href="https://www.wunderground.com"><img class="icon" src="./images/wunderground.svg"></a>
 </div>
 
 </center>
